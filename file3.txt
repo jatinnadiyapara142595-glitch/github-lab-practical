@@ -1,0 +1,3 @@
+GitHub helps multiple people work on the same project together.
+Team members can use branches and pull requests to collaborate safely.
+Changes can be reviewed and merged without affecting the main code.
