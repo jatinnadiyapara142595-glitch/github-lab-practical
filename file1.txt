@@ -1,0 +1,3 @@
+GitHub is a platform for hosting and managing code.
+It helps developers collaborate using Git.
+Repositories store project files and version history.
